@@ -1,4 +1,4 @@
 ## Hi there 
-I am Smruti Ranjan Mohanty, a student of mathematics from National Institute of Technology, Rourkela. I have interest in DeepLearning more Specifically Computer Vision.
+I am Smruti Ranjan Mohanty!
 You can find all my Work Repository here! 
 
