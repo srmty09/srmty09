@@ -12,4 +12,4 @@ I am Smruti Ranjan Mohanty! You can find all my Work Repository here!
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srmty09&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=srmty09&theme=dark&hide_border=true)](https://git.io/streak-stats)
